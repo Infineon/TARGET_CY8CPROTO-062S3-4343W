@@ -2,7 +2,7 @@
 
 ## Overview
 
-The CY8CPROTO-062S3-4343W Kit is a low-cost hardware platform that enables design and debug of the PSoC 6 MCUs.It comes with a Murata LBEE5KL1DX module, based on the CYW4343W combo device, industry-leading CapSense for touch buttons and slider, on-board debugger/programmer with KitProg3, 512-Mb Quad-SPI NOR flash. This kit is designed with a snap-away form-factor, allowing the user to separate the different components and features that come with this kit and use independently.
+The CY8CPROTO-062S3-4343W Kit is a low-cost hardware platform that enables design and debug of the PSoC 6 MCUs.It comes with a Murata LBEE5KL1DX module, based on the CYW4343W combo device, industry-leading CAPSENSE for touch buttons and slider, on-board debugger/programmer with KitProg3, 512-Mb Quad-SPI NOR flash. This kit is designed with a snap-away form-factor, allowing the user to separate the different components and features that come with this kit and use independently.
 
 ![](docs/html/board.png)
 
@@ -15,7 +15,7 @@ To use code from the BSP, simply include a reference to `cybsp.h`.
 * Support of up to 512 KB Flash and 256 KB SRAM
 * Dedicated SDHC to interface with WICED wireless devices.
 * Delivers dual-cores, with a 150-MHz Arm Cortex-M4 as the primary application processor and a 100-MHz Arm Cortex-M0+ as the secondary processor for low-power operations.
-* Supports Full-Speed USB, capacitive-sensing with CapSense.
+* Supports Full-Speed USB, capacitive-sensing with CAPSENSE.
 
 ### Kit Contents:
 
@@ -64,7 +64,7 @@ See the [BSP API Reference Manual][api] for the complete list of the provided in
 * [CY8CPROTO-062S3-4343W Documentation](http://www.cypress.com/CY8CPROTO-062S3-4343W)
 * [Cypress Semiconductor, an Infineon Technologies Company](http://www.cypress.com)
 * [Infineon GitHub](https://github.com/infineon)
-* [ModusToolbox](https://www.cypress.com/products/modustoolbox-software-environment)
+* [ModusToolbox™](https://www.cypress.com/products/modustoolbox-software-environment)
 
 [api]: https://infineon.github.io/TARGET_CY8CPROTO-062S3-4343W/html/modules.html
 [settings]: https://infineon.github.io/TARGET_CY8CPROTO-062S3-4343W/html/md_bsp_settings.html
