@@ -15,6 +15,8 @@ The CY8CPROTO-062S3-4343W library includes the following:
 * API documentation
 
 ### What Changed?
+#### v3.1.1
+* Updated startup code and linker scripts to align with the mtb-pdl-cat1 v2.4.1 release.
 #### v3.1.0
 * Added optional macro CYBSP_CUSTOM_SYSCLK_PM_CALLBACK to allow overriding default clock power management behavior.
 * Enable AIROC BLE stack for MCUs with an integrated BLE radio
