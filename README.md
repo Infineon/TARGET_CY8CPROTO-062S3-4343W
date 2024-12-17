@@ -2,7 +2,7 @@
 
 ## Overview
 
-The CY8CPROTO-062S3-4343W Kit is a low-cost hardware platform that enables design and debug of the PSoC™ 6 MCUs.It comes with a Murata LBEE5KL1DX module, based on the CYW4343W combo device, industry-leading CAPSENSE™ for touch buttons and slider, on-board debugger/programmer with KitProg3, 512-Mb Quad-SPI NOR flash. This kit is designed with a snap-away form-factor, allowing the user to separate the different components and features that come with this kit and use independently.
+The CY8CPROTO-062S3-4343W Kit is a low-cost hardware platform that enables design and debug of the PSOC™ 6 MCUs.It comes with a Murata LBEE5KL1DX module, based on the CYW4343W combo device, industry-leading CAPSENSE™ for touch buttons and slider, on-board debugger/programmer with KitProg3, 512-Mb Quad-SPI NOR flash. This kit is designed with a snap-away form-factor, allowing the user to separate the different components and features that come with this kit and use independently.
 
 ![](docs/html/board.png)
 
@@ -69,4 +69,4 @@ See the [BSP API Reference Manual][api] for the complete list of the provided in
 [settings]: https://infineon.github.io/TARGET_CY8CPROTO-062S3-4343W/html/md_bsp_settings.html
 
 ---
-© Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation, 2019-2022.
+© Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation, 2019-2024.
